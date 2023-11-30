@@ -25,3 +25,9 @@ table {
 .links:hover {
   color: #dea2f2;
 }
+img {
+  padding: 10px;
+}
+.imgCols {
+  text-align: center;
+}
