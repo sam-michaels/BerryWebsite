@@ -24,3 +24,7 @@ Raspberry Page:
     Raspberry Benefits: https://www.verywellfit.com/thmb/fTahOJR4HXXkEaqHSq9PGQxrwrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/raspberries-annotation-76bb24e2c56a40c5a9dd8b0c91a37ef5.jpg
     Raspberry: https://i.pinimg.com/550x/bf/df/a4/bfdfa43a5fe94569cad3529b22d29194.jpg
 
+Buttons:
+    Strawberry: https://t4.ftcdn.net/jpg/03/07/71/11/360_F_307711131_ZsDTmdsxdxyM5ffeA2GHvQx4NJqUfj95.jpg
+    Blueberry: https://t3.ftcdn.net/jpg/01/91/01/54/360_F_191015478_q9FaYV71294oCziklqfqWkhFfrlcmh3S.jpg
+    Raspberry: https://t3.ftcdn.net/jpg/04/34/80/86/360_F_434808602_zd37MA61wogURMA34z2g8zgoF7Ya0Qyp.jpg
