@@ -4,7 +4,7 @@ Home Page:
 
 Strawberry Page:
     Strawberry: https://ih1.redbubble.net/image.2545471762.6356/flat,750x,075,f-pad,750x1000,f8f8f8.jpg
-    Strawberry Benefits: https://drpingel.com/wp-content/uploads/2020/08/Strawberries.jpg
+    Strawberry Benefits: https://www.verywellfit.com/thmb/oO6LQSN4-ThaiMtojvENx39Xk8k=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/strawberries-annotation-b2a4f28040494aa081e8c37887f4c76d.jpg
     Strawberry Drink: https://www.tasteofhome.com/wp-content/uploads/2019/11/Rosemary-Strawberry-Daiquiri_EXPS_TOHAM20_163132_B10_29_7b-1.jpg?fit=700,700
     Strawberry Cake: https://sallysbakingaddiction.com/wp-content/uploads/2017/12/homemade-strawberry-cake-4.jpg
     Strawberry Smoothie: https://www.acouplecooks.com/wp-content/uploads/2020/04/Strawberry-Smoothie-002.jpg
@@ -15,5 +15,12 @@ Blueberry Page:
     Blueberry Muffin: https://sallysbakingaddiction.com/wp-content/uploads/2014/05/blueberry-streusel-muffins-5.jpg
     Blueberry Pie: https://sallysbakingaddiction.com/wp-content/uploads/2016/06/blueberry-pie.jpg
     Blueberry Smoothie: https://www.scrumptiously.com/wp-content/uploads/2023/02/BlueberrySmoothie.webp
-    Blueberry Benefits: https://s3-us-west-2.amazonaws.com/relhosp-s3.reliancehospitals.com/storage/page_images/611362ec54ade.jpg
+    Blueberry Benefits: https://www.verywellfit.com/thmb/8p-K8XaHLkbsot3EFHmoP2rf2ic=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/blueberries_annotated2-0ab902955b674c2a9af28d94d654cd06.jpg
+
 Raspberry Page:
+    Raspberry Muffin: https://www.tasteofhome.com/wp-content/uploads/2018/01/EXPS_23828_CFT1194735D39B_RMS.jpg?fit=700%2C1024
+    Raspberry Ice Cream: https://tmbidigitalassetsazure.blob.core.windows.net/rms3-prod/attachments/37/1200x1200/exps33194_MT163844D03_16_1b.jpg
+    Raspberry Cocktail: https://www.acouplecooks.com/wp-content/uploads/2021/05/Raspberry-Lemonade-007.jpg
+    Raspberry Benefits: https://www.verywellfit.com/thmb/fTahOJR4HXXkEaqHSq9PGQxrwrE=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/raspberries-annotation-76bb24e2c56a40c5a9dd8b0c91a37ef5.jpg
+    Raspberry: https://i.pinimg.com/550x/bf/df/a4/bfdfa43a5fe94569cad3529b22d29194.jpg
+
