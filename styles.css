@@ -14,8 +14,10 @@ table {
 .text {
   font-size: 20px;
   padding: 10px;
+  padding-left: 30px;
   color: #f2a2b8;
   font-family: Arial;
+  font-weight: bold;
 }
 .links {
   color: #b7f2a2;
@@ -34,4 +36,17 @@ img {
 .menuCells {
   text-align: center;
   width: 195px;
+}
+.refText {
+  text-align: center;
+}
+.refText a {
+  color: #b7f2a2;
+  text-decoration: none;
+  font-weight: bold;
+  padding: 30px;
+  font-size: 20px;
+}
+.refText a:hover {
+  color: #dea2f2;
 }
